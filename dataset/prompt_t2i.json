@@ -1,0 +1,1967 @@
+{
+    "wide angle photograph at night, award winning interior design apartment, night outside, dark, moody dim faint lighting, wood panel walls, cozy and calm, fabrics, textiles, pillows, lamps, colorful copper brass accents, secluded, many light sources, lamps, hardwood floors, book shelf, couch, desk, plants": {
+        "prompt": "wide angle photograph at night, award winning interior design apartment, night outside, dark, moody dim faint lighting, wood panel walls, cozy and calm, fabrics, textiles, pillows, lamps, colorful copper brass accents, secluded, many light sources, lamps, hardwood floors, book shelf, couch, desk, plants",
+        "element_score": {
+            "photograph (activity)": null,
+            "night (attribute)": null,
+            "interior design apartment (location)": null,
+            "outside (location)": null,
+            "dark (attribute)": null,
+            "moody dim faint lighting (attribute)": null,
+            "wood panel walls (object)": null,
+            "cozy and calm (attribute)": null,
+            "fabrics (material)": null,
+            "textiles (material)": null,
+            "pillows (object)": null,
+            "lamps (object)": null,
+            "colorful (attribute)": null,
+            "copper brass accents (material)": null,
+            "secluded (attribute)": null,
+            "many light sources (attribute)": null,
+            "hardwood floors (material)": null,
+            "book shelf (object)": null,
+            "couch (object)": null,
+            "desk (object)": null,
+            "plants (object)": null,
+            "wide angle (attribute)": null
+        }
+    },
+    "cartoon die cut sticker of hotdog with white border on gray background": {
+        "prompt": "cartoon die cut sticker of hotdog with white border on gray background",
+        "element_score": {
+            "cartoon (attribute)": null,
+            "die cut sticker (object)": null,
+            "hotdog (food)": null,
+            "white (object)": null,
+            "border (object)": null,
+            "gray (color)": null,
+            "background (attribute)": null
+        }
+    },
+    "Fiat 124": {
+        "prompt": "Fiat 124",
+        "element_score": {
+            "Fiat 124 (object)": null
+        }
+    },
+    "cubicle full of stacks of papers": {
+        "prompt": "cubicle full of stacks of papers",
+        "element_score": {
+            "cubicle (object)": null,
+            "stacks of papers (object)": null,
+            "full of (attribute)": null
+        }
+    },
+    "he found a leprechaun in his walnut shell": {
+        "prompt": "he found a leprechaun in his walnut shell",
+        "element_score": {
+            "he (human)": null,
+            "leprechaun (human)": null,
+            "walnut shell (object)": null,
+            "found (activity)": null,
+            "in (spatial)": null
+        }
+    },
+    "ceramic set on a chiseled wooden table": {
+        "prompt": "ceramic set on a chiseled wooden table",
+        "element_score": {
+            "ceramic set (object)": null,
+            "wooden table (object)": null,
+            "chiseled (attribute)": null,
+            "on (spatial)": null,
+            "wooden (material)": null
+        }
+    },
+    "transformational code enclosed in a beautiful picture, in the style of future art, exquisite personages": {
+        "prompt": "transformational code enclosed in a beautiful picture, in the style of future art, exquisite personages",
+        "element_score": {
+            "transformational code (object)": null,
+            "picture (object)": null,
+            "style of future art (attribute)": null,
+            "exquisite personages (attribute)": null
+        }
+    },
+    "walking on a path through a mushroom forest on fire, first person view, photorealistic 4k": {
+        "prompt": "walking on a path through a mushroom forest on fire, first person view, photorealistic 4k",
+        "element_score": {
+            "path (location)": null,
+            "mushroom forest (location)": null,
+            "fire (object)": null,
+            "first person view (attribute)": null,
+            "photorealistic 4k (attribute)": null,
+            "walking (activity)": null
+        }
+    },
+    "here comes the funky chicken!": {
+        "prompt": "here comes the funky chicken!",
+        "element_score": {
+            "funky chicken (animal)": null,
+            "comes (activity)": null
+        }
+    },
+    "the rise of medusa": {
+        "prompt": "the rise of medusa",
+        "element_score": {
+            "medusa (human)": null,
+            "the rise of (activity)": null
+        }
+    },
+    "a vintage illustration of the astral plane": {
+        "prompt": "a vintage illustration of the astral plane",
+        "element_score": {
+            "astral plane (other)": null,
+            "vintage illustration (attribute)": null
+        }
+    },
+    "multiple eyes as a 3 d render, matte oil painting, colorful concept art, award - winning, extremely detailed, sharp focus": {
+        "prompt": "multiple eyes as a 3 d render, matte oil painting, colorful concept art, award - winning, extremely detailed, sharp focus",
+        "element_score": {
+            "eyes (object)": null,
+            "3 d render (other)": null,
+            "matte oil painting (other)": null,
+            "colorful (attribute)": null,
+            "concept art (other)": null,
+            "award-winning (attribute)": null,
+            "extremely detailed (attribute)": null,
+            "sharp focus (attribute)": null,
+            "multiple (counting)": null
+        }
+    },
+    "Analog photo of a pink car driving off in the distance on a long road, wide view, depth of field": {
+        "prompt": "Analog photo of a pink car driving off in the distance on a long road, wide view, depth of field",
+        "element_score": {
+            "photo (attribute)": null,
+            "car (object)": null,
+            "driving off (activity)": null,
+            "distance (attribute)": null,
+            "road (location)": null,
+            "view (attribute)": null,
+            "depth of field (attribute)": null,
+            "pink (color)": null,
+            "long (attribute)": null,
+            "wide (attribute)": null,
+            "analog (attribute)": null
+        }
+    },
+    "a high quality photo of a chicken wearing a suit, Impressionism, 8k": {
+        "prompt": "a high quality photo of a chicken wearing a suit, Impressionism, 8k",
+        "element_score": {
+            "chicken (animal)": null,
+            "suit (object)": null,
+            "photo (attribute)": null,
+            "high quality (attribute)": null,
+            "wearing (activity)": null,
+            "Impressionism (other)": null,
+            "8k (other)": null
+        }
+    },
+    "large old tall tree amongst the futuristic city beautiful Concept art": {
+        "prompt": "large old tall tree amongst the futuristic city beautiful Concept art",
+        "element_score": {
+            "tree (object)": null,
+            "city (location)": null,
+            "large (attribute)": null,
+            "old (attribute)": null,
+            "tall (attribute)": null,
+            "futuristic (attribute)": null,
+            "beautiful (attribute)": null,
+            "Concept art (other)": null
+        }
+    },
+    "A coconut with arms and legs": {
+        "prompt": "A coconut with arms and legs",
+        "element_score": {
+            "coconut (food)": null,
+            "arms (object)": null,
+            "legs (object)": null
+        }
+    },
+    "taco bell in my living room": {
+        "prompt": "taco bell in my living room",
+        "element_score": {
+            "taco bell (location)": null,
+            "living room (location)": null,
+            "my (other)": null
+        }
+    },
+    "eagle from the roman empire, lightning, shining iron light effect": {
+        "prompt": "eagle from the roman empire, lightning, shining iron light effect",
+        "element_score": {
+            "eagle (animal)": null,
+            "roman empire (location)": null,
+            "lightning (other)": null,
+            "shining iron light effect (attribute)": null
+        }
+    },
+    "maple leaf pattern wallpaper, vector, symmetrical, fall colors, 4 k": {
+        "prompt": "maple leaf pattern wallpaper, vector, symmetrical, fall colors, 4 k",
+        "element_score": {
+            "maple leaf (object)": null,
+            "wallpaper (object)": null,
+            "vector (attribute)": null,
+            "symmetrical (attribute)": null,
+            "fall colors (color)": null,
+            "4 k (other)": null,
+            "pattern (attribute)": null
+        }
+    },
+    "audio waveform, audio signal, colorful, rainbow powder, trending on art station, award winning art": {
+        "prompt": "audio waveform, audio signal, colorful, rainbow powder, trending on art station, award winning art",
+        "element_score": {
+            "audio waveform (object)": null,
+            "audio signal (object)": null,
+            "rainbow powder (object)": null,
+            "trending on art station (activity)": null,
+            "award winning art (attribute)": null,
+            "colorful (attribute)": null
+        }
+    },
+    "down with the clown": {
+        "prompt": "down with the clown",
+        "element_score": {
+            "down with the clown (other)": null
+        }
+    },
+    "renaissance painting of the red ball": {
+        "prompt": "renaissance painting of the red ball",
+        "element_score": {
+            "renaissance painting (object)": null,
+            "red ball (object)": null,
+            "red (color)": null
+        }
+    },
+    "apple on white background, with word apple carved on it's surface": {
+        "prompt": "apple on white background, with word apple carved on it's surface",
+        "element_score": {
+            "apple (food)": null,
+            "background (location)": null,
+            "word apple (other)": null,
+            "carved (activity)": null,
+            "white (color)": null,
+            "surface (spatial)": null
+        }
+    },
+    "detonation of bread": {
+        "prompt": "detonation of bread",
+        "element_score": {
+            "detonation (activity)": null,
+            "bread (food)": null
+        }
+    },
+    "frame, skeletal, bones, roses, epic, cinematic, lantern lighting, eerie, beautiful, dreamy, gray and pale pink": {
+        "prompt": "frame, skeletal, bones, roses, epic, cinematic, lantern lighting, eerie, beautiful, dreamy, gray and pale pink",
+        "element_score": {
+            "frame (object)": null,
+            "skeletal (attribute)": null,
+            "bones (object)": null,
+            "roses (object)": null,
+            "epic (attribute)": null,
+            "cinematic (attribute)": null,
+            "lantern lighting (object)": null,
+            "eerie (attribute)": null,
+            "beautiful (attribute)": null,
+            "dreamy (attribute)": null,
+            "gray (color)": null,
+            "pale pink (color)": null
+        }
+    },
+    "lots of blue pills": {
+        "prompt": "lots of blue pills",
+        "element_score": {
+            "pills (object)": null,
+            "blue (color)": null,
+            "lots of (counting)": null
+        }
+    },
+    "A police car on the moon, professional painting, pastel": {
+        "prompt": "A police car on the moon, professional painting, pastel",
+        "element_score": {
+            "police car (object)": null,
+            "moon (location)": null,
+            "professional painting (attribute)": null,
+            "pastel (attribute)": null
+        }
+    },
+    "the sands of time": {
+        "prompt": "the sands of time",
+        "element_score": {
+            "sands (object)": null,
+            "time (other)": null
+        }
+    },
+    "Evil monster in a jar, product photography, studio lightning": {
+        "prompt": "Evil monster in a jar, product photography, studio lightning",
+        "element_score": {
+            "monster (other)": null,
+            "jar (object)": null,
+            "product photography (activity)": null,
+            "studio lightning (object)": null,
+            "evil (attribute)": null
+        }
+    },
+    "fighter jet in flight, money falling, smoke trail, cartoon,newspaper illustration": {
+        "prompt": "fighter jet in flight, money falling, smoke trail, cartoon,newspaper illustration",
+        "element_score": {
+            "fighter jet (object)": null,
+            "flight (activity)": null,
+            "money (object)": null,
+            "smoke trail (object)": null,
+            "cartoon (attribute)": null,
+            "newspaper illustration (attribute)": null
+        }
+    },
+    "perfectly centered face portrait, panda, professional portrait photography, candid photography, unreal engine 5, highly detailed, accurate": {
+        "prompt": "perfectly centered face portrait, panda, professional portrait photography, candid photography, unreal engine 5, highly detailed, accurate",
+        "element_score": {
+            "face portrait (object)": null,
+            "panda (animal)": null,
+            "professional portrait photography (activity)": null,
+            "candid photography (activity)": null,
+            "unreal engine 5 (other)": null,
+            "highly detailed (attribute)": null,
+            "accurate (attribute)": null,
+            "perfectly centered (attribute)": null
+        }
+    },
+    "road trip on mushrooms": {
+        "prompt": "road trip on mushrooms",
+        "element_score": {
+            "road trip (activity)": null,
+            "mushrooms (object)": null
+        }
+    },
+    "A distant shot of a car": {
+        "prompt": "A distant shot of a car",
+        "element_score": {
+            "car (object)": null,
+            "distant shot (attribute)": null
+        }
+    },
+    "portrait of sonic the hedgehog, chiaroscuro, elegant highly detailed oil painting 4 k, archival scan": {
+        "prompt": "portrait of sonic the hedgehog, chiaroscuro, elegant highly detailed oil painting 4 k, archival scan",
+        "element_score": {
+            "sonic the hedgehog (other)": null,
+            "portrait (attribute)": null,
+            "chiaroscuro (attribute)": null,
+            "oil painting (object)": null,
+            "4 k (attribute)": null,
+            "archival scan (attribute)": null,
+            "elegant (attribute)": null,
+            "highly detailed (attribute)": null
+        }
+    },
+    "a rabbit driving a car, digital art, highly detailed, high contrast, beautiful lighting, award winning, trending on art station, photorealistic, 8 k,": {
+        "prompt": "a rabbit driving a car, digital art, highly detailed, high contrast, beautiful lighting, award winning, trending on art station, photorealistic, 8 k,",
+        "element_score": {
+            "rabbit (animal)": null,
+            "car (object)": null,
+            "driving (activity)": null,
+            "digital art (attribute)": null,
+            "highly detailed (attribute)": null,
+            "high contrast (attribute)": null,
+            "beautiful lighting (attribute)": null,
+            "award winning (attribute)": null,
+            "trending on art station (attribute)": null,
+            "photorealistic (attribute)": null,
+            "8 k (other)": null
+        }
+    },
+    "thousands of oranges, fruit, product photo": {
+        "prompt": "thousands of oranges, fruit, product photo",
+        "element_score": {
+            "oranges (food)": null,
+            "fruit (food)": null,
+            "product photo (attribute)": null,
+            "thousands (counting)": null
+        }
+    },
+    "Vintage, detailed, sketch of Oculus Rift, with full descriptions, on parchment": {
+        "prompt": "Vintage, detailed, sketch of Oculus Rift, with full descriptions, on parchment",
+        "element_score": {
+            "Oculus Rift (object)": null,
+            "sketch (activity)": null,
+            "descriptions (object)": null,
+            "parchment (object)": null,
+            "vintage (attribute)": null,
+            "detailed (attribute)": null,
+            "on (spatial)": null
+        }
+    },
+    "concept art drawing of a single thick porcelain bowl filled with a few moist freshly picked plums on a wooden table. volumetric lighting. small scale. artistic. top down.": {
+        "prompt": "concept art drawing of a single thick porcelain bowl filled with a few moist freshly picked plums on a wooden table. volumetric lighting. small scale. artistic. top down.",
+        "element_score": {
+            "concept art drawing (activity)": null,
+            "porcelain bowl (object)": null,
+            "plums (food)": null,
+            "wooden table (object)": null,
+            "volumetric lighting (attribute)": null,
+            "single (counting)": null,
+            "thick (attribute)": null,
+            "filled with (activity)": null,
+            "freshly picked (attribute)": null,
+            "moist (attribute)": null,
+            "small scale (attribute)": null,
+            "artistic (attribute)": null,
+            "top down (spatial)": null,
+            "few (counting)": null
+        }
+    },
+    "black and white illustration, creative design, fly": {
+        "prompt": "black and white illustration, creative design, fly",
+        "element_score": {
+            "illustration (attribute)": null,
+            "creative design (attribute)": null,
+            "fly (animal)": null,
+            "black and white (color)": null
+        }
+    },
+    "fine painting of teal leafed nasturtiums and blue incense smoke.": {
+        "prompt": "fine painting of teal leafed nasturtiums and blue incense smoke.",
+        "element_score": {
+            "painting (object)": null,
+            "leafed nasturtiums (object)": null,
+            "incense smoke (object)": null,
+            "teal (color)": null,
+            "blue (color)": null,
+            "fine (attribute)": null
+        }
+    },
+    "sticker illustration of bill gates with thumbs up": {
+        "prompt": "sticker illustration of bill gates with thumbs up",
+        "element_score": {
+            "sticker (object)": null,
+            "illustration (activity)": null,
+            "bill gates (human)": null,
+            "thumbs up (activity)": null
+        }
+    },
+    "A storm in a teacup": {
+        "prompt": "A storm in a teacup",
+        "element_score": {
+            "storm (other)": null,
+            "teacup (object)": null
+        }
+    },
+    "two praying skeletons kneeling facing each other arms raised, ink pen, highly detailed, crosshatching": {
+        "prompt": "two praying skeletons kneeling facing each other arms raised, ink pen, highly detailed, crosshatching",
+        "element_score": {
+            "skeletons (object)": null,
+            "praying (activity)": null,
+            "kneeling (activity)": null,
+            "facing each other (activity)": null,
+            "arms raised (activity)": null,
+            "ink pen (object)": null,
+            "crosshatching (attribute)": null,
+            "highly detailed (attribute)": null,
+            "two (counting)": null
+        }
+    },
+    "a potato reading a book": {
+        "prompt": "a potato reading a book",
+        "element_score": {
+            "potato (food)": null,
+            "book (object)": null,
+            "reading (activity)": null
+        }
+    },
+    "a single large spaceship seen from the surface of a busy metropolis, star wars, star citizen digital art, trending on art station": {
+        "prompt": "a single large spaceship seen from the surface of a busy metropolis, star wars, star citizen digital art, trending on art station",
+        "element_score": {
+            "spaceship (object)": null,
+            "surface (location)": null,
+            "metropolis (location)": null,
+            "star wars (other)": null,
+            "star citizen digital art (other)": null,
+            "trending on art station (other)": null,
+            "single (counting)": null,
+            "large (attribute)": null,
+            "seen from (spatial)": null
+        }
+    },
+    "A collection of animation frames in one image for a walking teenager, realism, street as a background": {
+        "prompt": "A collection of animation frames in one image for a walking teenager, realism, street as a background",
+        "element_score": {
+            "animation frames (object)": null,
+            "image (object)": null,
+            "teenager (human)": null,
+            "walking (activity)": null,
+            "realism (attribute)": null,
+            "street (location)": null,
+            "collection (counting)": null,
+            "background (attribute)": null
+        }
+    },
+    "of an amazing realistic illustration of a marlin fish jumping out of water, go pro footage, water line surface, sunrise lighting, dynamic composition, - c 1 0 - n 9": {
+        "prompt": "of an amazing realistic illustration of a marlin fish jumping out of water, go pro footage, water line surface, sunrise lighting, dynamic composition, - c 1 0 - n 9",
+        "element_score": {
+            "marlin fish (animal)": null,
+            "water (other)": null,
+            "amazing (attribute)": null,
+            "realistic (attribute)": null,
+            "illustration (activity)": null,
+            "jumping out (activity)": null,
+            "go pro footage (other)": null,
+            "water line surface (other)": null,
+            "sunrise lighting (attribute)": null,
+            "dynamic composition (attribute)": null,
+            "c 1 0 - n 9 (other)": null
+        }
+    },
+    "elephant in the room": {
+        "prompt": "elephant in the room",
+        "element_score": {
+            "elephant (animal)": null,
+            "room (location)": null
+        }
+    },
+    "kids book illustration of a seahorse wearing cute little glasses": {
+        "prompt": "kids book illustration of a seahorse wearing cute little glasses",
+        "element_score": {
+            "kids book illustration (attribute)": null,
+            "seahorse (animal)": null,
+            "glasses (object)": null,
+            "wearing (activity)": null,
+            "cute little (attribute)": null
+        }
+    },
+    "hop farm with the sun rising in the distance": {
+        "prompt": "hop farm with the sun rising in the distance",
+        "element_score": {
+            "hop farm (location)": null,
+            "sun (object)": null,
+            "rising (activity)": null,
+            "distance (spatial)": null
+        }
+    },
+    "an ice cube spelling the letter s": {
+        "prompt": "an ice cube spelling the letter s",
+        "element_score": {
+            "ice cube (object)": null,
+            "letter s (object)": null,
+            "spelling (activity)": null
+        }
+    },
+    "money to burn": {
+        "prompt": "money to burn",
+        "element_score": {
+            "money (object)": null,
+            "burn (activity)": null
+        }
+    },
+    "a cake with the writing happy birthday": {
+        "prompt": "a cake with the writing happy birthday",
+        "element_score": {
+            "cake (food)": null,
+            "writing (activity)": null,
+            "happy birthday (other)": null
+        }
+    },
+    "gorgeous graceful graphite gesture drawing of a ballerina dancing through time and space, highly detailed, smooth, focus": {
+        "prompt": "gorgeous graceful graphite gesture drawing of a ballerina dancing through time and space, highly detailed, smooth, focus",
+        "element_score": {
+            "graphite gesture drawing (object)": null,
+            "ballerina (human)": null,
+            "dancing (activity)": null,
+            "time and space (other)": null,
+            "gorgeous (attribute)": null,
+            "graceful (attribute)": null,
+            "highly detailed (attribute)": null,
+            "smooth (attribute)": null,
+            "focus (attribute)": null
+        }
+    },
+    "an abstract painting of a giant bush sprawling out across a mint green background": {
+        "prompt": "an abstract painting of a giant bush sprawling out across a mint green background",
+        "element_score": {
+            "painting (object)": null,
+            "bush (object)": null,
+            "background (object)": null,
+            "abstract (attribute)": null,
+            "giant (attribute)": null,
+            "sprawling out (activity)": null,
+            "mint green (color)": null
+        }
+    },
+    "tattoo of the number five on chest of anonymous muscular male, award-winning profile photography, ridiculous muscle": {
+        "prompt": "tattoo of the number five on chest of anonymous muscular male, award-winning profile photography, ridiculous muscle",
+        "element_score": {
+            "tattoo (object)": null,
+            "number five (other)": null,
+            "chest (location)": null,
+            "muscular male (human)": null,
+            "profile photography (activity)": null,
+            "muscle (other)": null,
+            "award-winning (attribute)": null,
+            "ridiculous (attribute)": null
+        }
+    },
+    "never eat soggy waffles": {
+        "prompt": "never eat soggy waffles",
+        "element_score": {
+            "never eat soggy waffles (other)": null
+        }
+    },
+    "the letter a made out of cars": {
+        "prompt": "the letter a made out of cars",
+        "element_score": {
+            "letter a (object)": null,
+            "cars (object)": null,
+            "made out of (activity)": null
+        }
+    },
+    "photo raining cats and dogs": {
+        "prompt": "photo raining cats and dogs",
+        "element_score": {
+            "raining (activity)": null,
+            "cats (animal)": null,
+            "dogs (animal)": null,
+            "photo (attribute)": null
+        }
+    },
+    "a photo of a man made of water, octane render, 4k, realism": {
+        "prompt": "a photo of a man made of water, octane render, 4k, realism",
+        "element_score": {
+            "man (human)": null,
+            "water (material)": null,
+            "photo (attribute)": null,
+            "octane render (other)": null,
+            "4k (other)": null,
+            "realism (attribute)": null
+        }
+    },
+    "album cover for abbey road by slayer, 1 9 6 9": {
+        "prompt": "album cover for abbey road by slayer, 1 9 6 9",
+        "element_score": {
+            "album cover (object)": null,
+            "abbey road (other)": null,
+            "slayer (other)": null,
+            "1 9 6 9 (other)": null
+        }
+    },
+    "sun and moon, vintage illustration stock vector": {
+        "prompt": "sun and moon, vintage illustration stock vector",
+        "element_score": {
+            "sun (object)": null,
+            "moon (object)": null,
+            "vintage illustration (attribute)": null,
+            "stock vector (attribute)": null
+        }
+    },
+    "Mushroom city, mushroom houses, architecture, mushrooms, scenic, lush, forestry, forest, flowers, butterflies, vast, expansive landscape, depth, 8k, trending on art station": {
+        "prompt": "Mushroom city, mushroom houses, architecture, mushrooms, scenic, lush, forestry, forest, flowers, butterflies, vast, expansive landscape, depth, 8k, trending on art station",
+        "element_score": {
+            "mushroom city (location)": null,
+            "mushroom houses (object)": null,
+            "architecture (object)": null,
+            "mushrooms (object)": null,
+            "scenic (attribute)": null,
+            "lush (attribute)": null,
+            "forestry (object)": null,
+            "forest (location)": null,
+            "flowers (object)": null,
+            "butterflies (animal)": null,
+            "vast (attribute)": null,
+            "expansive landscape (location)": null,
+            "depth (attribute)": null,
+            "8k (other)": null,
+            "trending on art station (other)": null
+        }
+    },
+    "lace spheres on a red cube": {
+        "prompt": "lace spheres on a red cube",
+        "element_score": {
+            "lace spheres (object)": null,
+            "red cube (object)": null,
+            "on (spatial)": null,
+            "red (color)": null
+        }
+    },
+    "extreme close - up shot, discernible normal hands with five fingers": {
+        "prompt": "extreme close - up shot, discernible normal hands with five fingers",
+        "element_score": {
+            "close-up shot (attribute)": null,
+            "hands (human)": null,
+            "five fingers (counting)": null,
+            "normal (attribute)": null,
+            "extreme (attribute)": null,
+            "discernible (attribute)": null
+        }
+    },
+    "looking up at a gigantic three - dimensional thick impasto oil painting / sculpture in the shape of an woman's head, with no eyes, lots of thick encrusted paint, wet paint is oozing down over the face like wax on a candle, lots and lots of wax - like lines of dripping oil paint cover nearly everything, no skin or hair, or frame visible, lit from": {
+        "prompt": "looking up at a gigantic three - dimensional thick impasto oil painting / sculpture in the shape of an woman's head, with no eyes, lots of thick encrusted paint, wet paint is oozing down over the face like wax on a candle, lots and lots of wax - like lines of dripping oil paint cover nearly everything, no skin or hair, or frame visible, lit from",
+        "element_score": {
+            "gigantic (attribute)": null,
+            "three - dimensional (attribute)": null,
+            "thick impasto oil painting / sculpture (object)": null,
+            "shape of an woman's head (shape)": null,
+            "no eyes (attribute)": null,
+            "thick encrusted paint (material)": null,
+            "wet paint (material)": null,
+            "oozing down (activity)": null,
+            "face (object)": null,
+            "wax on a candle (object)": null,
+            "wax - like lines of dripping oil paint (object)": null,
+            "nearly everything (attribute)": null,
+            "no skin or hair (attribute)": null,
+            "no frame visible (attribute)": null,
+            "lit from (activity)": null,
+            "looking up (activity)": null
+        }
+    },
+    "Top down acrylic painting of an orange beach and purple ocean": {
+        "prompt": "Top down acrylic painting of an orange beach and purple ocean",
+        "element_score": {
+            "acrylic painting (object)": null,
+            "beach (location)": null,
+            "ocean (location)": null,
+            "top down (spatial)": null,
+            "orange (color)": null,
+            "purple (color)": null
+        }
+    },
+    "A Dragon guards a horde of treasure in it's lair, shafts of sunlight appear from parts of the ruined interior. Chiaroscuro style painting. 4K.": {
+        "prompt": "A Dragon guards a horde of treasure in it's lair, shafts of sunlight appear from parts of the ruined interior. Chiaroscuro style painting. 4K.",
+        "element_score": {
+            "Dragon (animal)": null,
+            "treasure (object)": null,
+            "lair (location)": null,
+            "sunlight (other)": null,
+            "ruined interior (object)": null,
+            "guards (activity)": null,
+            "Chiaroscuro style (other)": null,
+            "4K (other)": null,
+            "painting (attribute)": null,
+            "shafts of (spatial)": null
+        }
+    },
+    "design a logo of letter N for a car company, octane rendering": {
+        "prompt": "design a logo of letter N for a car company, octane rendering",
+        "element_score": {
+            "logo (object)": null,
+            "letter N (object)": null,
+            "car company (other)": null,
+            "design (activity)": null,
+            "octane rendering (other)": null
+        }
+    },
+    "a photo which contains every other photo in the world": {
+        "prompt": "a photo which contains every other photo in the world",
+        "element_score": {
+            "photo (object)": null,
+            "every other photo in the world (other)": null
+        }
+    },
+    "a bus at the bottom of the ocean, underwater photography, national geographic, 8 k, high quality": {
+        "prompt": "a bus at the bottom of the ocean, underwater photography, national geographic, 8 k, high quality",
+        "element_score": {
+            "bus (object)": null,
+            "bottom of the ocean (location)": null,
+            "underwater photography (activity)": null,
+            "national geographic (other)": null,
+            "8 k (other)": null,
+            "high quality (attribute)": null
+        }
+    },
+    "scan of a scientific diagram of the anatomy of a minion, high quality": {
+        "prompt": "scan of a scientific diagram of the anatomy of a minion, high quality",
+        "element_score": {
+            "scientific diagram (object)": null,
+            "anatomy (other)": null,
+            "minion (other)": null,
+            "scan (activity)": null,
+            "high quality (attribute)": null
+        }
+    },
+    "realistic demon filmed on security camera footage": {
+        "prompt": "realistic demon filmed on security camera footage",
+        "element_score": {
+            "demon (other)": null,
+            "security camera footage (object)": null,
+            "filmed (activity)": null,
+            "realistic (attribute)": null
+        }
+    },
+    "alien landscape with space ship in the middle": {
+        "prompt": "alien landscape with space ship in the middle",
+        "element_score": {
+            "alien landscape (location)": null,
+            "space ship (object)": null,
+            "middle (spatial)": null
+        }
+    },
+    "vividly blue brewed coffee": {
+        "prompt": "vividly blue brewed coffee",
+        "element_score": {
+            "coffee (food)": null,
+            "blue (color)": null,
+            "brewed (activity)": null,
+            "vividly (attribute)": null
+        }
+    },
+    "realistic high quality photo of a cute dog holding a sign with text that reads : dream": {
+        "prompt": "realistic high quality photo of a cute dog holding a sign with text that reads : dream",
+        "element_score": {
+            "dog (animal)": null,
+            "sign (object)": null,
+            "holding (activity)": null,
+            "realistic (attribute)": null,
+            "high quality (attribute)": null,
+            "photo (attribute)": null,
+            "cute (attribute)": null,
+            "text (object)": null,
+            "dream (other)": null
+        }
+    },
+    "“ house of cards ”": {
+        "prompt": "“ house of cards ”",
+        "element_score": {
+            "house of cards (object)": null
+        }
+    },
+    "brown - white vinyl latex mask of horse head on female": {
+        "prompt": "brown - white vinyl latex mask of horse head on female",
+        "element_score": {
+            "vinyl latex mask (object)": null,
+            "horse head (object)": null,
+            "female (human)": null,
+            "brown - white (color)": null,
+            "on (spatial)": null
+        }
+    },
+    "boy, 1 0 years old, sitting at the table eating a stick of butter on his fork from a plate with plenty of sticks of butter, illustration 1 9 4 0 s. the boy is facing the viewer.": {
+        "prompt": "boy, 1 0 years old, sitting at the table eating a stick of butter on his fork from a plate with plenty of sticks of butter, illustration 1 9 4 0 s. the boy is facing the viewer.",
+        "element_score": {
+            "boy (human)": null,
+            "table (object)": null,
+            "butter (food)": null,
+            "stick of butter (food)": null,
+            "fork (object)": null,
+            "plate (object)": null,
+            "eating (activity)": null,
+            "sitting (activity)": null,
+            "1 0 years old (counting)": null,
+            "plenty (counting)": null,
+            "illustration 1 9 4 0 s (attribute)": null,
+            "facing the viewer (activity)": null
+        }
+    },
+    "A masterpiece oil painting of a girl trapped in a car in the dark woods, the only light visible is the light from the car": {
+        "prompt": "A masterpiece oil painting of a girl trapped in a car in the dark woods, the only light visible is the light from the car",
+        "element_score": {
+            "masterpiece oil painting (attribute)": null,
+            "girl (human)": null,
+            "car (object)": null,
+            "dark woods (location)": null,
+            "light (object)": null,
+            "trapped (activity)": null,
+            "visible (attribute)": null
+        }
+    },
+    "a giant birthday cake with plenty of birthday balloons surrounding it": {
+        "prompt": "a giant birthday cake with plenty of birthday balloons surrounding it",
+        "element_score": {
+            "birthday cake (food)": null,
+            "birthday balloons (object)": null,
+            "giant (attribute)": null,
+            "surrounding (spatial)": null,
+            "plenty of (counting)": null
+        }
+    },
+    "holographic green lichen - like material flowing through a forest at night, detailed, cinematic, concept art": {
+        "prompt": "holographic green lichen - like material flowing through a forest at night, detailed, cinematic, concept art",
+        "element_score": {
+            "lichen (object)": null,
+            "forest (location)": null,
+            "night (attribute)": null,
+            "holographic (attribute)": null,
+            "green (color)": null,
+            "material (material)": null,
+            "flowing (activity)": null,
+            "detailed (attribute)": null,
+            "cinematic (attribute)": null,
+            "concept art (other)": null
+        }
+    },
+    "tiny classroom with hundred of kids": {
+        "prompt": "tiny classroom with hundred of kids",
+        "element_score": {
+            "classroom (location)": null,
+            "kids (human)": null,
+            "tiny (attribute)": null,
+            "hundred (counting)": null
+        }
+    },
+    "A 'Welcome to Heaven' sign": {
+        "prompt": "A 'Welcome to Heaven' sign",
+        "element_score": {
+            "Welcome to Heaven' sign (object)": null
+        }
+    },
+    "three mandarins": {
+        "prompt": "three mandarins",
+        "element_score": {
+            "mandarins (food)": null,
+            "three (counting)": null
+        }
+    },
+    "cute hyena made of cake on top of birthday cake": {
+        "prompt": "cute hyena made of cake on top of birthday cake",
+        "element_score": {
+            "hyena (animal)": null,
+            "cake (food)": null,
+            "birthday cake (food)": null,
+            "cute (attribute)": null,
+            "made of (material)": null,
+            "on top of (spatial)": null
+        }
+    },
+    "illustration of a glowing blue adorable cute cat in grassy field with forest in the background, incredibly cute, anime eyes, river, lavender growing nearby, cinematic lighting, high detail concept art, epic, award winning": {
+        "prompt": "illustration of a glowing blue adorable cute cat in grassy field with forest in the background, incredibly cute, anime eyes, river, lavender growing nearby, cinematic lighting, high detail concept art, epic, award winning",
+        "element_score": {
+            "glowing blue adorable cute cat (animal)": null,
+            "grassy field (location)": null,
+            "forest (location)": null,
+            "anime eyes (attribute)": null,
+            "river (object)": null,
+            "lavender (object)": null,
+            "cinematic lighting (attribute)": null,
+            "high detail concept art (attribute)": null,
+            "epic (attribute)": null,
+            "award winning (attribute)": null,
+            "illustration (activity)": null
+        }
+    },
+    "hole in the ocean chaos": {
+        "prompt": "hole in the ocean chaos",
+        "element_score": {
+            "hole (object)": null,
+            "ocean (location)": null,
+            "chaos (attribute)": null
+        }
+    },
+    "Isometric 3d octane render of marshmallow": {
+        "prompt": "Isometric 3d octane render of marshmallow",
+        "element_score": {
+            "octane render (activity)": null,
+            "marshmallow (food)": null,
+            "Isometric 3d (attribute)": null
+        }
+    },
+    "underwater spaceship on fire": {
+        "prompt": "underwater spaceship on fire",
+        "element_score": {
+            "spaceship (object)": null,
+            "underwater (spatial)": null,
+            "on fire (attribute)": null
+        }
+    },
+    "deep dark black, solid color, background, total darkness, ink, digital art": {
+        "prompt": "deep dark black, solid color, background, total darkness, ink, digital art",
+        "element_score": {
+            "deep dark black (color)": null,
+            "solid color (attribute)": null,
+            "background (attribute)": null,
+            "total darkness (attribute)": null,
+            "ink (material)": null,
+            "digital art (other)": null
+        }
+    },
+    "Blueprint of a beer bottle, high detail": {
+        "prompt": "Blueprint of a beer bottle, high detail",
+        "element_score": {
+            "beer bottle (object)": null,
+            "blueprint (attribute)": null,
+            "high detail (attribute)": null
+        }
+    },
+    "an old journal page describing alien life forms with rich illustrations": {
+        "prompt": "an old journal page describing alien life forms with rich illustrations",
+        "element_score": {
+            "journal page (object)": null,
+            "alien life forms (other)": null,
+            "illustrations (object)": null,
+            "old (attribute)": null,
+            "describing (activity)": null,
+            "rich (attribute)": null
+        }
+    },
+    "medieval noble male with magenta hair and pink bangs which partly cover his face, full body view, wearing golden full plate armor, dramatic pose, blood on his face, photorealistic oil painting in medieval style, sun in the sky, bloom, green grassy land and white marble columns in the background": {
+        "prompt": "medieval noble male with magenta hair and pink bangs which partly cover his face, full body view, wearing golden full plate armor, dramatic pose, blood on his face, photorealistic oil painting in medieval style, sun in the sky, bloom, green grassy land and white marble columns in the background",
+        "element_score": {
+            "noble male (human)": null,
+            "magenta (color)": null,
+            "hair (object)": null,
+            "pink (color)": null,
+            "bangs (object)": null,
+            "face (object)": null,
+            "full body view (attribute)": null,
+            "golden (color)": null,
+            "full plate armor (object)": null,
+            "dramatic pose (activity)": null,
+            "blood (object)": null,
+            "photorealistic oil painting (attribute)": null,
+            "medieval style (attribute)": null,
+            "sun (object)": null,
+            "sky (location)": null,
+            "bloom (attribute)": null,
+            "green (color)": null,
+            "grassy land (location)": null,
+            "white (color)": null,
+            "marble columns (object)": null,
+            "background (spatial)": null,
+            "medieval (attribute)": null
+        }
+    },
+    "the money store": {
+        "prompt": "the money store",
+        "element_score": {
+            "money store (location)": null
+        }
+    },
+    "Infinite mirrors": {
+        "prompt": "Infinite mirrors",
+        "element_score": {
+            "mirrors (object)": null,
+            "Infinite (attribute)": null
+        }
+    },
+    "the letter p made out of fur": {
+        "prompt": "the letter p made out of fur",
+        "element_score": {
+            "letter p (object)": null,
+            "fur (material)": null,
+            "made out of (activity)": null
+        }
+    },
+    "detailed assemble blueprints of an electric buggy": {
+        "prompt": "detailed assemble blueprints of an electric buggy",
+        "element_score": {
+            "blueprints (object)": null,
+            "electric buggy (object)": null,
+            "detailed (attribute)": null,
+            "assemble (activity)": null
+        }
+    },
+    "spectrogram": {
+        "prompt": "spectrogram",
+        "element_score": {
+            "spectrogram (other)": null
+        }
+    },
+    "$ - - path": {
+        "prompt": "$ - - path",
+        "element_score": {
+            "path (location)": null
+        }
+    },
+    "a blackboard with text 'Warmth' on it ,Times New Roman font": {
+        "prompt": "a blackboard with text 'Warmth' on it ,Times New Roman font",
+        "element_score": {
+            "Warmth (Other-writing&symbol)": null,
+            "Times New Roman font (attribute)": null
+        }
+    },
+    "a blackboard with text 'Gentle' on it ,Landscape orientation": {
+        "prompt": "a blackboard with text 'Gentle' on it ,Landscape orientation",
+        "element_score": {
+            "Gentle (Other-writing&symbol)": null,
+            "Landscape orientation (attribute)": null
+        }
+    },
+    "a blackboard with text 'Believe' on it ,Landscape orientation": {
+        "prompt": "a blackboard with text 'Believe' on it ,Landscape orientation",
+        "element_score": {
+            "Believe (Other-writing&symbol)": null,
+            "Landscape orientation (attribute)": null
+        }
+    },
+    "a blackboard with text 'Relax' on it ,Portrait orientation": {
+        "prompt": "a blackboard with text 'Relax' on it ,Portrait orientation",
+        "element_score": {
+            "Relax (Other-writing&symbol)": null,
+            "Portrait orientation (attribute)": null
+        }
+    },
+    "a blackboard with text 'Together' on it ,Regular script font": {
+        "prompt": "a blackboard with text 'Together' on it ,Regular script font",
+        "element_score": {
+            "Together (Other-writing&symbol)": null,
+            "Regular script font (attribute)": null
+        }
+    },
+    "a blackboard with text 'Pure' on it ,Times New Roman font": {
+        "prompt": "a blackboard with text 'Pure' on it ,Times New Roman font",
+        "element_score": {
+            "Pure (Other-writing&symbol)": null,
+            "Times New Roman font (attribute)": null
+        }
+    },
+    "a blackboard with text 'Grand' on it ,Portrait orientation": {
+        "prompt": "a blackboard with text 'Grand' on it ,Portrait orientation",
+        "element_score": {
+            "Grand (Other-writing&symbol)": null,
+            "Portrait orientation (attribute)": null
+        }
+    },
+    "a blackboard with text 'Pure' on it ,Art style": {
+        "prompt": "a blackboard with text 'Pure' on it ,Art style",
+        "element_score": {
+            "Pure (Other-writing&symbol)": null,
+            "Art style (attribute)": null
+        }
+    },
+    "a blackboard with text 'Hope' on it ,Regular script font": {
+        "prompt": "a blackboard with text 'Hope' on it ,Regular script font",
+        "element_score": {
+            "Hope (Other-writing&symbol)": null,
+            "Regular script font (attribute)": null
+        }
+    },
+    "a blackboard with text ' +' on it ,Regular script font": {
+        "prompt": "a blackboard with text ' +' on it ,Regular script font",
+        "element_score": {
+            "+ (Other-writing&symbol)": null,
+            "Regular script font (attribute)": null
+        }
+    },
+    "a blackboard with text 'Loyal' on it ,Times New Roman font": {
+        "prompt": "a blackboard with text 'Loyal' on it ,Times New Roman font",
+        "element_score": {
+            "Loyal (Other-writing&symbol)": null,
+            "Times New Roman font (attribute)": null
+        }
+    },
+    "a blackboard with text 'Glow' on it ,Regular script font": {
+        "prompt": "a blackboard with text 'Glow' on it ,Regular script font",
+        "element_score": {
+            "Glow (Other-writing&symbol)": null,
+            "Regular script font (attribute)": null
+        }
+    },
+    "a blackboard with text 'Equilibrium' on it ,Landscape orientation": {
+        "prompt": "a blackboard with text 'Equilibrium' on it ,Landscape orientation",
+        "element_score": {
+            "Equilibrium (Other-writing&symbol)": null,
+            "Landscape orientation (attribute)": null
+        }
+    },
+    "a blackboard with text 'Grace' on it ,Landscape orientation": {
+        "prompt": "a blackboard with text 'Grace' on it ,Landscape orientation",
+        "element_score": {
+            "Grace (Other-writing&symbol)": null,
+            "Landscape orientation (attribute)": null
+        }
+    },
+    "a blackboard with text 'Believe' on it ,Regular script font": {
+        "prompt": "a blackboard with text 'Believe' on it ,Regular script font",
+        "element_score": {
+            "Believe (Other-writing&symbol)": null,
+            "Regular script font (attribute)": null
+        }
+    },
+    "a blackboard with text '@' on it ,Landscape orientation": {
+        "prompt": "a blackboard with text '@' on it ,Landscape orientation",
+        "element_score": {
+            "@ (Other-writing&symbol)": null,
+            "Landscape orientation (attribute)": null
+        }
+    },
+    "auto mechanic repairs car, Panorama": {
+        "prompt": "auto mechanic repairs car, Panorama",
+        "element_score": {
+            "auto mechanic (human)": null,
+            "repairs (activity)": null,
+            "car (object)": null,
+            "Panorama (other-perspective)": null
+        }
+    },
+    "Crab finds shell, Wide shot": {
+        "prompt": "Crab finds shell, Wide shot",
+        "element_score": {
+            "Crab (animal)": null,
+            "finds (activity)": null,
+            "shell (object)": null,
+            "Wide shot (other-perspective)": null
+        }
+    },
+    "actor visits city, Close-up": {
+        "prompt": "actor visits city, Close-up",
+        "element_score": {
+            "actor (human)": null,
+            "visits (activity)": null,
+            "city (location)": null,
+            "Close-up (other-perspective)": null
+        }
+    },
+    "hotel porter carries suitcase, Aerial shot": {
+        "prompt": "hotel porter carries suitcase, Aerial shot",
+        "element_score": {
+            "hotel porter (human)": null,
+            "carries (activity)": null,
+            "suitcase (object)": null,
+            "Aerial shot (other-perspective)": null
+        }
+    },
+    "Eagle spots rabbit, Panorama": {
+        "prompt": "Eagle spots rabbit, Panorama",
+        "element_score": {
+            "Eagle (animal)": null,
+            "spots (activity)": null,
+            "rabbit (animal/human)": null,
+            "Panorama (other-perspective)": null
+        }
+    },
+    "clerk assists customer, Panorama": {
+        "prompt": "clerk assists customer, Panorama",
+        "element_score": {
+            "clerk (human)": null,
+            "assists (activity)": null,
+            "customer (animal/human)": null,
+            "Panorama (other-perspective)": null
+        }
+    },
+    "writer creates story, Extreme close-up": {
+        "prompt": "writer creates story, Extreme close-up",
+        "element_score": {
+            "writer (human)": null,
+            "creates (activity)": null,
+            "story (object)": null,
+            "Extreme close-up (other-perspective)": null
+        }
+    },
+    "pilot navigates aircraft, Medium shot": {
+        "prompt": "pilot navigates aircraft, Medium shot",
+        "element_score": {
+            "pilot (human)": null,
+            "navigates (activity)": null,
+            "aircraft (object)": null,
+            "Medium shot (other-perspective)": null
+        }
+    },
+    "The scientist analyzed the data, Low-angle shot": {
+        "prompt": "The scientist analyzed the data, Low-angle shot",
+        "element_score": {
+            "the scientist (human)": null,
+            "analyzed (activity)": null,
+            "data (object)": null,
+            "Low-angle shot (other-perspective)": null
+        }
+    },
+    "Butcher cuts meat, Overhead shot": {
+        "prompt": "Butcher cuts meat, Overhead shot",
+        "element_score": {
+            "Butcher (human)": null,
+            "cuts (activity)": null,
+            "meat (object)": null,
+            "Overhead shot (other-perspective)": null
+        }
+    },
+    "Butcher chops meat, Panorama": {
+        "prompt": "Butcher chops meat, Panorama",
+        "element_score": {
+            "Butcher (human)": null,
+            "chops (activity)": null,
+            "meat (object)": null,
+            "Panorama (other-perspective)": null
+        }
+    },
+    "waiter serves customer, Dutch angle shot": {
+        "prompt": "waiter serves customer, Dutch angle shot",
+        "element_score": {
+            "waiter (human)": null,
+            "serves (activity)": null,
+            "customer (animal/human)": null,
+            "Dutch angle shot (other-perspective)": null
+        }
+    },
+    "Real estate broker negotiates contract, Aerial shot": {
+        "prompt": "Real estate broker negotiates contract, Aerial shot",
+        "element_score": {
+            "Real estate broker (human)": null,
+            "negotiates (activity)": null,
+            "contract (object)": null,
+            "Aerial shot (other-perspective)": null
+        }
+    },
+    "mechanic repairs car, Eye-level shot": {
+        "prompt": "mechanic repairs car, Eye-level shot",
+        "element_score": {
+            "mechanic (human)": null,
+            "repairs (activity)": null,
+            "car (object)": null,
+            "Eye-level shot (other-perspective)": null
+        }
+    },
+    "Oiler repairs machinery, Low-angle shot": {
+        "prompt": "Oiler repairs machinery, Low-angle shot",
+        "element_score": {
+            "Oiler (human)": null,
+            "repairs (activity)": null,
+            "machinery (object)": null,
+            "Low-angle shot (other-perspective)": null
+        }
+    },
+    "mechanic repairs car, Aerial shot": {
+        "prompt": "mechanic repairs car, Aerial shot",
+        "element_score": {
+            "mechanic (human)": null,
+            "repairs (activity)": null,
+            "car (object)": null,
+            "Aerial shot (other-perspective)": null
+        }
+    },
+    "Earrings are inside the Tent and the Earrings are smaller than the Tent": {
+        "prompt": "Earrings are inside the Tent and the Earrings are smaller than the Tent",
+        "element_score": {
+            "Earrings (object)": null,
+            "Tent (object)": null,
+            "inside (spatial)": null,
+            "smaller than (comparison)": null
+        }
+    },
+    "The movie star is beside the smartwatch, and the movie star is taller than the smartwatch": {
+        "prompt": "The movie star is beside the smartwatch, and the movie star is taller than the smartwatch",
+        "element_score": {
+            "movie star (human)": null,
+            "smartwatch (object)": null,
+            "beside (spatial)": null,
+            "taller (other)": null
+        }
+    },
+    "Face mask is between Nail polish, and the Face mask is larger than the Nail polish": {
+        "prompt": "Face mask is between Nail polish, and the Face mask is larger than the Nail polish",
+        "element_score": {
+            "Face mask (object-other)": null,
+            "Between (Spatial)": null,
+            "Nail polish (object-other)": null,
+            "larger (activity)": null
+        }
+    },
+    "a Priest is beside a planner, and the Priest is taller than the planner": {
+        "prompt": "a Priest is beside a planner, and the Priest is taller than the planner",
+        "element_score": {
+            "Priest (human)": null,
+            "planner (human)": null,
+            "beside (spatial)": null,
+            "taller than (spatial)": null
+        }
+    },
+    "Water monster is between custom officials, and the Water monster is larger than the custom officials": {
+        "prompt": "Water monster is between custom officials, and the Water monster is larger than the custom officials",
+        "element_score": {
+            "Water monster (object)": null,
+            "custom officials (human)": null,
+            "between (spatial)": null,
+            "larger (attribute)": null
+        }
+    },
+    "broker signs contract, Long shot": {
+        "prompt": "broker signs contract, Long shot",
+        "element_score": {
+            "broker (human)": null,
+            "signs (activity)": null,
+            "contract (object)": null,
+            "Long shot (other-perspective)": null
+        }
+    },
+    "Between a cartoonist and a Frog, the cartoonist is taller than the Frog.": {
+        "prompt": "Between a cartoonist and a Frog, the cartoonist is taller than the Frog.",
+        "element_score": {
+            "cartoonist (human)": null,
+            "Between (Spatial)": null,
+            "Frog (animal)": null,
+            "taller (activity)": null
+        }
+    },
+    "A Backpack is on top of a Bicycle and the Backpack is larger than the Bicycle.": {
+        "prompt": "A Backpack is on top of a Bicycle and the Backpack is larger than the Bicycle.",
+        "element_score": {
+            "Backpack (object-cloth&accessories)": null,
+            "Top (Spatial)": null,
+            "Bicycle (object-vehicle)": null,
+            "larger (activity)": null
+        }
+    },
+    "A car is left of a yoga ball, and the car is larger than the yoga ball": {
+        "prompt": "A car is left of a yoga ball, and the car is larger than the yoga ball",
+        "element_score": {
+            "Car (object-other)": null,
+            "Left (Spatial)": null,
+            "Yoga ball (object-other)": null,
+            "larger (activity)": null
+        }
+    },
+    "The ATV is near the soldier, and the ATV is larger than the soldier.": {
+        "prompt": "The ATV is near the soldier, and the ATV is larger than the soldier.",
+        "element_score": {
+            "ATV (object)": null,
+            "soldier (human)": null,
+            "near (spatial)": null,
+            "larger (attribute)": null
+        }
+    },
+    "The salmon is on the edge of the waiter and the salmon is sleeker than the waiter": {
+        "prompt": "The salmon is on the edge of the waiter and the salmon is sleeker than the waiter",
+        "element_score": {
+            "Salmon (animal)": null,
+            "Edge (Spatial)": null,
+            "waiter (human)": null,
+            "sleeker (activity)": null
+        }
+    },
+    "the Shark is in front of the Spider and the Shark is larger than the Spider": {
+        "prompt": "the Shark is in front of the Spider and the Shark is larger than the Spider",
+        "element_score": {
+            "Shark (animal)": null,
+            "Front (Spatial)": null,
+            "Spider (animal)": null,
+            "larger (activity)": null
+        }
+    },
+    "The van is on the edge of the hotel porter, and the van is larger than the hotel porter.": {
+        "prompt": "The van is on the edge of the hotel porter, and the van is larger than the hotel porter.",
+        "element_score": {
+            "Van (object-vehicle)": null,
+            "Edge (Spatial)": null,
+            "hotel porter (human)": null,
+            "larger (activity)": null
+        }
+    },
+    "Bus is on the left of announcer, and the Bus is larger than the announcer": {
+        "prompt": "Bus is on the left of announcer, and the Bus is larger than the announcer",
+        "element_score": {
+            "Bus (object-vehicle)": null,
+            "Left (Spatial)": null,
+            "announcer (human)": null,
+            "larger (activity)": null
+        }
+    },
+    "Sunglasses are between a Frog, and the Sunglasses are smaller than the Frog": {
+        "prompt": "Sunglasses are between a Frog, and the Sunglasses are smaller than the Frog",
+        "element_score": {
+            "Sunglasses (object-cloth&accessories)": null,
+            "Between (Spatial)": null,
+            "Frog (animal)": null,
+            "smaller (activity)": null
+        }
+    },
+    "A ring is left of a baseball, and the ring is smaller than the baseball": {
+        "prompt": "A ring is left of a baseball, and the ring is smaller than the baseball",
+        "element_score": {
+            "Ring (object-cloth&accessories)": null,
+            "Left (Spatial)": null,
+            "Baseball (object-other)": null,
+            "smaller (activity)": null
+        }
+    },
+    "the skydiver is next to the chef and the skydiver is taller than the chef": {
+        "prompt": "the skydiver is next to the chef and the skydiver is taller than the chef",
+        "element_score": {
+            "skydiver (human)": null,
+            "chef (human)": null,
+            "next to (spatial)": null,
+            "taller than (attribute)": null
+        }
+    },
+    "A pair of earrings at a waterfall, oil painting style, misty weather, early morning.": {
+        "prompt": "A pair of earrings at a waterfall, oil painting style, misty weather, early morning.",
+        "element_score": {
+            "Earrings (object-cloth&accessories)": null,
+            "Waterfall (location)": null,
+            "Oil painting style (attribute-style-artist/works)": null,
+            "Misty (Other-weather)": null,
+            "Early morning (Other-time)": null
+        }
+    },
+    "A broker at a Glacier, Photography style, under a cloudy sky, during sunset": {
+        "prompt": "A broker at a Glacier, Photography style, under a cloudy sky, during sunset",
+        "element_score": {
+            "broker (human)": null,
+            "Glacier (location)": null,
+            "Photography style (attribute-style-artist/works)": null,
+            "cloudy (Other-weather)": null,
+            "sunset (Other-time)": null
+        }
+    },
+    "An Oiler on a ship's deck, watercolor, under a clear morning sky": {
+        "prompt": "An Oiler on a ship's deck, watercolor, under a clear morning sky",
+        "element_score": {
+            "Oiler (human)": null,
+            "ship's deck (location)": null,
+            "watercolor (material)": null,
+            "clear morning sky (object)": null,
+            "on (spatial)": null,
+            "under (spatial)": null
+        }
+    },
+    "An impressionist depiction of a blacksmith at the Pyramids during a sunny day at midday.": {
+        "prompt": "An impressionist depiction of a blacksmith at the Pyramids during a sunny day at midday.",
+        "element_score": {
+            "blacksmith (human)": null,
+            "Pyramids (location)": null,
+            "sunny day (attribute)": null,
+            "midday (time)": null,
+            "impressionist depiction (attribute)": null
+        }
+    },
+    "A minimalist airplane near a black hole": {
+        "prompt": "A minimalist airplane near a black hole",
+        "element_score": {
+            "airplane (object)": null,
+            "black hole (object)": null,
+            "near (spatial)": null,
+            "minimalist (attribute)": null
+        }
+    },
+    "A swim ring on a farm, Gothic style, foggy morning": {
+        "prompt": "A swim ring on a farm, Gothic style, foggy morning",
+        "element_score": {
+            "Swim ring (object-other)": null,
+            "Farm (location)": null,
+            "Gothic style (attribute-style-artist/works)": null,
+            "foggy (Other-weather)": null,
+            "morning (Other-time)": null
+        }
+    },
+    "A baseball cap in a forest, Chinese style, on a foggy morning in autumn": {
+        "prompt": "A baseball cap in a forest, Chinese style, on a foggy morning in autumn",
+        "element_score": {
+            "baseball cap (object)": null,
+            "forest (location)": null,
+            "foggy morning (attribute)": null,
+            "autumn (attribute)": null,
+            "Chinese style (other)": null,
+            "in (spatial)": null
+        }
+    },
+    "A diamond in an office, Japanese anime, sunny, noon": {
+        "prompt": "A diamond in an office, Japanese anime, sunny, noon",
+        "element_score": {
+            "Diamond (object-other)": null,
+            "Office (location)": null,
+            "Japanese anime (attribute-style-artist/works)": null,
+            "sunny (Other-weather)": null,
+            "noon (Other-time)": null
+        }
+    },
+    "A buyer on an island, 2D style, sunny, morning": {
+        "prompt": "A buyer on an island, 2D style, sunny, morning",
+        "element_score": {
+            "buyer (human)": null,
+            "Island (location)": null,
+            "2D style (attribute-style-artist/works)": null,
+            "sunny (Other-weather)": null,
+            "morning (Other-time)": null
+        }
+    },
+    "An E-reader in a Church, Sculptural style, on a rainy evening": {
+        "prompt": "An E-reader in a Church, Sculptural style, on a rainy evening",
+        "element_score": {
+            "E-reader (object-electronic)": null,
+            "Church (location)": null,
+            "Sculptural style (attribute-style-artist/works)": null,
+            "rainy (Other-weather)": null,
+            "evening (Other-time)": null
+        }
+    },
+    "An earthworm under the Oriental Pearl Tower, Japanese anime style, during a spring rain shower at dawn.": {
+        "prompt": "An earthworm under the Oriental Pearl Tower, Japanese anime style, during a spring rain shower at dawn.",
+        "element_score": {
+            "Earthworm (animal)": null,
+            "Oriental Pearl Tower (location)": null,
+            "Japanese anime (attribute-style-artist/works)": null,
+            "spring rain shower (Other-weather)": null,
+            "dawn (Other-time)": null
+        }
+    },
+    "A pair of gloves in a shopping mall, 3D CGI, sunny, afternoon": {
+        "prompt": "A pair of gloves in a shopping mall, 3D CGI, sunny, afternoon",
+        "element_score": {
+            "Gloves (object-cloth&accessories)": null,
+            "Shopping mall (location)": null,
+            "3D CGI (attribute-style-artist/works)": null,
+            "sunny (Other-weather)": null,
+            "afternoon (Other-time)": null
+        }
+    },
+    "An eyeshadow in the morning, 2D style, sunny weather, early morning": {
+        "prompt": "An eyeshadow in the morning, 2D style, sunny weather, early morning",
+        "element_score": {
+            "Eyeshadow (object-other)": null,
+            "Morning (location)": null,
+            "2D style (attribute-style-artist/works)": null,
+            "sunny weather (Other-weather)": null,
+            "early morning (Other-time)": null
+        }
+    },
+    "A snail on a city street, 2D style, on a rainy spring afternoon.": {
+        "prompt": "A snail on a city street, 2D style, on a rainy spring afternoon.",
+        "element_score": {
+            "Snail (animal)": null,
+            "City street (location)": null,
+            "2D style (attribute-style-artist/works)": null,
+            "rainy spring (Other-weather)": null,
+            "afternoon (Other-time)": null
+        }
+    },
+    "A swim ring in a river, sculptural style, on a clear summer afternoon": {
+        "prompt": "A swim ring in a river, sculptural style, on a clear summer afternoon",
+        "element_score": {
+            "Swim ring (object-other)": null,
+            "River (location)": null,
+            "Sculptural style (attribute-style-artist/works)": null,
+            "Clear summer (Other-weather)": null,
+            "Afternoon (Other-time)": null
+        }
+    },
+    "A nail polish at a harbor pier, Chinese style, on a windy autumn day in the afternoon": {
+        "prompt": "A nail polish at a harbor pier, Chinese style, on a windy autumn day in the afternoon",
+        "element_score": {
+            "Nail polish (object-other)": null,
+            "Harbor pier (location)": null,
+            "Chinese style (attribute-style-artist/works)": null,
+            "windy autumn day (Other-weather)": null,
+            "afternoon (Other-time)": null
+        }
+    },
+    "Lavender sleek E-reader and Ruby polished Taxi": {
+        "prompt": "Lavender sleek E-reader and Ruby polished Taxi",
+        "element_score": {
+            "Lavender (Color) ": null,
+            "sleek (Material) ": null,
+            "E-reader (object-electronic)": null,
+            "Ruby (Color) ": null,
+            "polished (Material) ": null,
+            "Taxi (object-vehicle)": null
+        }
+    },
+    "Plum wool sweater and red leather wallet": {
+        "prompt": "Plum wool sweater and red leather wallet",
+        "element_score": {
+            "Plum (Color) ": null,
+            "wool (Material) ": null,
+            "Sweater (object-cloth&accessories)": null,
+            "Red (Color) ": null,
+            "leather (Material) ": null,
+            "Wallet (object-cloth&accessories)": null
+        }
+    },
+    "Chocolate fuzzy unicorn and Gray metallic vacuum cleaner": {
+        "prompt": "Chocolate fuzzy unicorn and Gray metallic vacuum cleaner",
+        "element_score": {
+            "Chocolate (Color) ": null,
+            "fuzzy (Material) ": null,
+            "Unicorn (animal)": null,
+            "Gray (Color) ": null,
+            "metallic (Material) ": null,
+            "Vacuum cleaner (object-household goods)": null
+        }
+    },
+    "Mint Green Silken Frog and Slate Gray Metallic Ring": {
+        "prompt": "Mint Green Silken Frog and Slate Gray Metallic Ring",
+        "element_score": {
+            "Mint Green (Color) ": null,
+            "Silken (Material) ": null,
+            "Frog (animal)": null,
+            "Slate Gray (Color) ": null,
+            "Metallic (Material) ": null,
+            "Ring (object-cloth&accessories)": null
+        }
+    },
+    "Lime slimy Snail and Periwinkle sleek Tablet": {
+        "prompt": "Lime slimy Snail and Periwinkle sleek Tablet",
+        "element_score": {
+            "Lime (Color) ": null,
+            "slimy (Material) ": null,
+            "Snail (animal)": null,
+            "Periwinkle (Color) ": null,
+            "sleek (Material) ": null,
+            "Tablet (object-electronic)": null
+        }
+    },
+    "Violet gelatinous Jellyfish and Red metallic Bicycle": {
+        "prompt": "Violet gelatinous Jellyfish and Red metallic Bicycle",
+        "element_score": {
+            "Violet (Color) ": null,
+            "gelatinous (Material) ": null,
+            "Jellyfish (animal)": null,
+            "Red (Color) ": null,
+            "metallic (Material) ": null,
+            "Bicycle (object-vehicle)": null
+        }
+    },
+    "Linen fluffy dog and white non-stick frying pan": {
+        "prompt": "Linen fluffy dog and white non-stick frying pan",
+        "element_score": {
+            "Linen (Color) ": null,
+            "fluffy (Material) ": null,
+            "Dog (animal)": null,
+            "White (Color) ": null,
+            "non-stick (Material) ": null,
+            "Frying pan (object-household goods)": null
+        }
+    },
+    "Emerald wooden mop and Fair-skinned woolly mammoth": {
+        "prompt": "Emerald wooden mop and Fair-skinned woolly mammoth",
+        "element_score": {
+            "Emerald (Color) ": null,
+            "wooden (Material) ": null,
+            "Mop (object-household goods)": null,
+            "Fair-skinned (Color) ": null,
+            "woolly (Material) ": null,
+            "Mammoth (animal)": null
+        }
+    },
+    "Rosy wooden horse and Linen plastic vacuum cleaner": {
+        "prompt": "Rosy wooden horse and Linen plastic vacuum cleaner",
+        "element_score": {
+            "Rosy (Color) ": null,
+            "wooden (Material) ": null,
+            "Horse (animal)": null,
+            "Linen (Color) ": null,
+            "plastic (Material) ": null,
+            "Vacuum cleaner (object-household goods)": null
+        }
+    },
+    "Lavender metallic bicycle and Olive rubber ant": {
+        "prompt": "Lavender metallic bicycle and Olive rubber ant",
+        "element_score": {
+            "Lavender (Color) ": null,
+            "metallic (Material) ": null,
+            "Ant (animal)": null,
+            "Olive (Color) ": null,
+            "rubber (Material) ": null,
+            "Bicycle (object-vehicle)": null
+        }
+    },
+    "Midnight Blue scaled goldfish and Royal Blue plush sofa": {
+        "prompt": "Midnight Blue scaled goldfish and Royal Blue plush sofa",
+        "element_score": {
+            "Midnight Blue (Color) ": null,
+            "scaled (Material) ": null,
+            "Goldfish (animal)": null,
+            "Royal Blue (Color) ": null,
+            "plush (Material) ": null,
+            "Sofa (object-household goods)": null
+        }
+    },
+    "Bronze scaly water monster and Blue luminescent anemone": {
+        "prompt": "Bronze scaly water monster and Blue luminescent anemone",
+        "element_score": {
+            "Bronze (Color) ": null,
+            "scaly (Material) ": null,
+            "Water monster (animal)": null,
+            "Blue (Color) ": null,
+            "luminescent (Material) ": null,
+            "Anemone (animal)": null
+        }
+    },
+    "Pale wool sweater and Yellow shell lobster": {
+        "prompt": "Pale wool sweater and Yellow shell lobster",
+        "element_score": {
+            "Pale (Color) ": null,
+            "wool (Material) ": null,
+            "Sweater (object-cloth&accessories)": null,
+            "Yellow (Color) ": null,
+            "shell (Material) ": null,
+            "Lobster (animal)": null
+        }
+    },
+    "bronze sturdy shell and lime cozy sweater": {
+        "prompt": "bronze sturdy shell and lime cozy sweater",
+        "element_score": {
+            "bronze (Color) ": null,
+            "sturdy (Material) ": null,
+            "Shell (animal)": null,
+            "lime (Color) ": null,
+            "cozy (Material) ": null,
+            "Sweater (object-cloth&accessories)": null
+        }
+    },
+    "Dark-skinned leathery handbag and gold furred mammoth": {
+        "prompt": "Dark-skinned leathery handbag and gold furred mammoth",
+        "element_score": {
+            "Dark-skinned (Color) ": null,
+            "leathery (Material) ": null,
+            "Handbag (object-cloth&accessories)": null,
+            "Gold (Color) ": null,
+            "furred (Material) ": null,
+            "Mammoth (animal)": null
+        }
+    },
+    "Slate Gray metallic watch and Violet cotton trousers": {
+        "prompt": "Slate Gray metallic watch and Violet cotton trousers",
+        "element_score": {
+            "Slate Gray (Color) ": null,
+            "metallic (Material) ": null,
+            "Watch (object-cloth&accessories)": null,
+            "Violet (Color) ": null,
+            "cotton (Material) ": null,
+            "Trousers (object-cloth&accessories)": null
+        }
+    },
+    "Ruby non-stick frying pan and Brown majestic eagle": {
+        "prompt": "Ruby non-stick frying pan and Brown majestic eagle",
+        "element_score": {
+            "Ruby (Color) ": null,
+            "non-stick (Material) ": null,
+            "Frying pan (object-household goods)": null,
+            "Brown (Color) ": null,
+            "majestic (Material) ": null,
+            "Eagle (animal)": null
+        }
+    },
+    "Yellow plastic speaker and Turquoise soft anemone": {
+        "prompt": "Yellow plastic speaker and Turquoise soft anemone",
+        "element_score": {
+            "Yellow (Color) ": null,
+            "plastic (Material) ": null,
+            "Speaker (object-electronic)": null,
+            "Turquoise (Color) ": null,
+            "soft (Material) ": null,
+            "Anemone (animal)": null
+        }
+    },
+    "3 dentist and 2 doctor": {
+        "prompt": "3 dentist and 2 doctor",
+        "element_score": {
+            "3 (Counting)": null,
+            "dentist (human)": null,
+            "2 (Counting)": null,
+            "doctor (human)": null
+        }
+    },
+    "1 Butterfly and 1 Compass": {
+        "prompt": "1 Butterfly and 1 Compass",
+        "element_score": {
+            "1 (Counting)": null,
+            "Butterfly (animal)": null,
+            "Compass (object-other)": null
+        }
+    },
+    "1 Television and 0 florist": {
+        "prompt": "1 Television and 0 florist",
+        "element_score": {
+            "1 (Counting)": null,
+            "Television (object-electronic)": null,
+            "0 (Counting)": null,
+            "florist (human)": null
+        }
+    },
+    "0 Phoenix and Some VR headset": {
+        "prompt": "0 Phoenix and Some VR headset",
+        "element_score": {
+            "0 (Counting)": null,
+            "Phoenix (animal)": null,
+            "Some (Counting)": null,
+            "VR headset (object-other)": null
+        }
+    },
+    "Some guard and Many Diamond": {
+        "prompt": "Some guard and Many Diamond",
+        "element_score": {
+            "Some (Counting)": null,
+            "guard (human)": null,
+            "Many (Counting)": null,
+            "Diamond (object-other)": null
+        }
+    },
+    "Some Crab and Many blacksmith": {
+        "prompt": "Some Crab and Many blacksmith",
+        "element_score": {
+            "Some (Counting)": null,
+            "Crab (animal)": null,
+            "Many (Counting)": null,
+            "blacksmith (human)": null
+        }
+    },
+    "1 postman and A large quantity typist": {
+        "prompt": "1 postman and A large quantity typist",
+        "element_score": {
+            "1 (Counting)": null,
+            "postman (human)": null,
+            "A large quantity (Counting)": null,
+            "typist (human)": null
+        }
+    },
+    "6 Diamond and 1 Sweatpants": {
+        "prompt": "6 Diamond and 1 Sweatpants",
+        "element_score": {
+            "6 (Counting)": null,
+            "Diamond (object-other)": null,
+            "1 (Counting)": null,
+            "Sweatpants (object-cloth&accessories)": null
+        }
+    },
+    "0 reporter and Several pilot": {
+        "prompt": "0 reporter and Several pilot",
+        "element_score": {
+            "0 (Counting)": null,
+            "reporter (human)": null,
+            "Several (Counting)": null,
+            "pilot (human)": null
+        }
+    },
+    "1 Scooter and 4 clerk": {
+        "prompt": "1 Scooter and 4 clerk",
+        "element_score": {
+            "1 (Counting)": null,
+            "Scooter (object-vehicle)": null,
+            "4 (Counting)": null,
+            "clerk (human)": null
+        }
+    },
+    "A large quantity Handbag and 0 artist": {
+        "prompt": "A large quantity Handbag and 0 artist",
+        "element_score": {
+            "A large quantity (Counting)": null,
+            "Handbag (object-cloth&accessories)": null,
+            "0 (Counting)": null,
+            "artist (human)": null
+        }
+    },
+    "1 programmer and 1 cleaner": {
+        "prompt": "1 programmer and 1 cleaner",
+        "element_score": {
+            "1 (Counting)": null,
+            "programmer (human)": null,
+            "cleaner (human)": null
+        }
+    },
+    "Some Horse and none one Car Truck": {
+        "prompt": "Some Horse and none one Car Truck",
+        "element_score": {
+            "Some (Counting)": null,
+            "Horse (animal)": null,
+            "none one (Counting)": null,
+            "Car Truck (object-vehicle)": null
+        }
+    },
+    "Several boxer and 0 Sunglasses": {
+        "prompt": "Several boxer and 0 Sunglasses",
+        "element_score": {
+            "Several (Counting)": null,
+            "boxer (human)": null,
+            "0 (Counting)": null,
+            "Sunglasses (object-cloth&accessories)": null
+        }
+    },
+    "Many farmer and 2 fashion designer": {
+        "prompt": "Many farmer and 2 fashion designer",
+        "element_score": {
+            "Many (Counting)": null,
+            "farmer (human)": null,
+            "2 (Counting)": null,
+            "fashion designer (human)": null
+        }
+    },
+    "A large quantity Pearl and 1 Limousine": {
+        "prompt": "A large quantity Pearl and 1 Limousine",
+        "element_score": {
+            "A large quantity (Counting)": null,
+            "Pearl (object-other)": null,
+            "1 (Counting)": null,
+            "Limousine (object-vehicle)": null
+        }
+    }
+}
